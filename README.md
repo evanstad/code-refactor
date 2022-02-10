@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # code-refractor
+=======
+# code-refactor
+>>>>>>> 94eb4792efc7711ca5c44e64648604eb18d05d80
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -14,4 +18,8 @@ THEN I find accessible alt attributes
 WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
+<<<<<<< HEAD
 THEN I find a concise, descriptive title
+=======
+THEN I find a concise, descriptive title
+>>>>>>> 94eb4792efc7711ca5c44e64648604eb18d05d80
